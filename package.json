@@ -1,0 +1,20 @@
+{
+  "name": "eos-kylin-testnet",
+  "version": "0.0.0",
+  "description": "Helper to interact with the Kylin EOS testnet",
+  "main": "index.js",
+  "dependencies": {
+    "simple-get": "^3.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyperdivision/eos-kylin-testnet.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyperdivision/eos-kylin-testnet/issues"
+  },
+  "homepage": "https://github.com/hyperdivision/eos-kylin-testnet"
+}
